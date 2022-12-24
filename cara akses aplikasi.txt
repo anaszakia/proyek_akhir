@@ -1,0 +1,4 @@
+cara penggunaan aplikasi project akhir:
+1. masuk ke alamat localhost http://127.0.0.1:8000/admin/login
+2. login dengan : username= proyek_akhir@email.com password=rahasia123
+3. database terdapat pada file dengan nama projek_akhir.sql
